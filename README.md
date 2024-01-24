@@ -1,4 +1,5 @@
-# My Shows App with Vite
+# My Shows App with Vite: 
+# By :  SATTVIK DWIVEDI
 
 ## Features
 
