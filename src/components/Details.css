@@ -1,0 +1,43 @@
+/* src/components/ShowDetails.css */
+
+.show-details-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .show-details-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .show-details-info {
+    text-align: left;
+  }
+  
+  .show-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .show-type {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .show-summary {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .book-ticket-btn {
+    padding: 10px 15px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
