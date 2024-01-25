@@ -12,10 +12,6 @@ const Details = () => {
       .then((data) => setShowDetails(data));
   }, [id]);
 
-  const handleBookTicket = () => {
-    // Implement ticket booking logic here
-  };
-
   return (
     <div className="show-details-container">
       <h1>Show Details</h1>
